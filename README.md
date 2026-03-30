@@ -16,7 +16,7 @@ The goal is to transform raw data into meaningful insights using Python and data
 
 ---
 
-## 🛠️ Technologies Used  
+## 🛠️ Tools and Libraries Used  
 
 - Python  
 - Pandas  
@@ -28,7 +28,7 @@ The goal is to transform raw data into meaningful insights using Python and data
 ---
 
 ## 📂 Project Structure  
-# 🎬 Netflix Data Analysis using Python (Pandas)
+# 🎬 Netflix Data Analysis using Python 
 
 ## 📌 Project Overview  
 This project performs an exploratory data analysis (EDA) on Netflix datasets to understand content characteristics and viewer engagement patterns. The analysis combines two datasets containing title information and user engagement metrics to uncover relationships between variables such as genre, duration, release year, and popularity.
