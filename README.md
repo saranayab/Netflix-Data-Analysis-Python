@@ -1,33 +1,3 @@
-# 🎬 Netflix Data Analysis using Python (Pandas)
-
-## 📌 Project Overview  
-This project performs an exploratory data analysis (EDA) on Netflix datasets to understand content characteristics and viewer engagement patterns. The analysis combines two datasets containing title information and user engagement metrics to uncover relationships between variables such as genre, duration, release year, and popularity.
-
-The goal is to transform raw data into meaningful insights using Python and data visualisation techniques.
-
----
-
-## 🎯 Objectives  
-
-- Analyse how viewer engagement varies across different Netflix titles  
-- Explore relationships between content characteristics (genre, duration, release year) and popularity  
-- Identify patterns in content growth and audience behaviour  
-- Perform data cleaning, transformation, and feature engineering for analysis  
-
----
-
-## 🛠️ Tools and Libraries Used  
-
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Google Colab  
-
----
-
-## 📂 Project Structure  
 # 🎬 Netflix Data Analysis using Python 
 
 ## 📌 Project Overview  
@@ -46,7 +16,7 @@ The goal is to transform raw data into meaningful insights using Python and data
 
 ---
 
-## 🛠️ Technologies Used  
+## 🛠️ Technologies and libraries Used  
 
 - Python  
 - Pandas  
@@ -58,36 +28,6 @@ The goal is to transform raw data into meaningful insights using Python and data
 ---
 
 ## 📂 Project Structure  
-# 🎬 Netflix Data Analysis using Python (Pandas)
-
-## 📌 Project Overview  
-This project performs an exploratory data analysis (EDA) on Netflix datasets to understand content characteristics and viewer engagement patterns. The analysis combines two datasets containing title information and user engagement metrics to uncover relationships between variables such as genre, duration, release year, and popularity.
-
-The goal is to transform raw data into meaningful insights using Python and data visualisation techniques.
-
----
-
-## 🎯 Objectives  
-
-- Analyse how viewer engagement varies across different Netflix titles  
-- Explore relationships between content characteristics (genre, duration, release year) and popularity  
-- Identify patterns in content growth and audience behaviour  
-- Perform data cleaning, transformation, and feature engineering for analysis  
-
----
-
-## 🛠️ Technologies Used  
-
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Google Colab  
-
----
-
-## 📂 Project Structure
 notebooks/ → Jupyter Notebook containing full analysis
 report/ → PDF version of the project report
 data/ → Netflix datasets used in analysis
@@ -174,4 +114,5 @@ This project demonstrates how raw data can be transformed into actionable insigh
 - Perform clustering to group similar content  
 - Include additional features such as cast, reviews, or sentiment analysis  
 - Analyse time-based viewing behaviour  
+
 
