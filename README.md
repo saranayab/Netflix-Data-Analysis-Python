@@ -28,10 +28,10 @@ The goal is to transform raw data into meaningful insights using Python and data
 ---
 
 ## 📂 Project Structure  
-notebooks/ → Jupyter Notebook containing full analysis
-report/ → PDF version of the project report
-data/ → Netflix datasets used in analysis
-README.md → Project documentation
+- notebooks/ → Jupyter Notebook containing full analysis
+- report/ → PDF version of the project report
+- data/ → Netflix datasets used in analysis
+- README.md → Project documentation
 
 ---
 
